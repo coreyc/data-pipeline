@@ -1,10 +1,11 @@
 {
-    "name": "data-pipeline",
-    "version": "1.0.0",
-    "dependencies": {
-        "twitter": "latest"
-    },
-    "devDependencies": {
-        "dotenv": "latest"
-    }
+  "name": "data-pipeline",
+  "version": "1.0.0",
+  "dependencies": {
+    "twitter": "latest"
+  },
+  "devDependencies": {
+    "dotenv": "latest",
+    "ramda": "^0.22.1"
+  }
 }
