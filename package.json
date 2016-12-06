@@ -1,0 +1,10 @@
+{
+    "name": "data-pipeline",
+    "version": "1.0.0",
+    "dependencies": {
+        "twitter": "latest"
+    },
+    "devDependencies": {
+        "dotenv": "latest"
+    }
+}
